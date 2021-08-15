@@ -1,0 +1,105 @@
+/* shifting to center */
+.col-md-6{
+    padding-top: 25px;
+}
+
+/* Spacing for the Submit button */
+.submit-button {
+    padding-top: 20px;
+}
+
+/* For high temp box */
+#name_city {
+    padding-top: 30px;
+    font-size: 35px;
+    padding-bottom: 20px;
+}
+
+.textCenter {
+    text-align: center;
+}
+
+#tempHigh {
+    padding-top: 30px;
+    font-size: 25px;
+}
+
+.highTemp {
+    text-align: center;
+    padding-top: 20px;
+}
+
+#colorRed {
+    background: red;
+}
+
+#highTemp {
+    font-size: 22px;
+}
+
+/* For low temp box */
+#tempLow {
+    padding-top: 30px;
+    font-size: 25px;
+}
+
+.lowTemp {
+    text-align: center;
+    padding-top: 20px;
+}
+
+#colorBlue {
+    background: lightblue;
+}
+
+#lowTemp {
+    font-size: 22px;
+}
+
+/* For Forecast box */
+#colorGray {
+    background: lightgray;
+    font-size: 25px;
+    text-align: center;
+}
+
+#Forecast {
+    font-size: 22px;
+}
+
+.Forecast {
+    padding-top: 20px;
+    text-align: center;
+}
+
+/* For Humidity box */
+#colorGreen {
+    background: green;
+    font-size: 25px;
+    text-align: center;
+}
+
+#Humidity {
+    font-size: 22px;
+}
+
+.Humidity {
+    padding-top: 20px;
+    text-align: center;
+}
+
+/* For current temperature box */
+#colorPink {
+    background: lightpink;
+    font-size: 25px;
+    text-align: center;
+}
+
+#currentTemp {
+    font-size: 22px;
+}
+
+.cTemp {
+    padding-top: 20px;
+    text-align: center;
+}
